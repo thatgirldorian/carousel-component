@@ -1,5 +1,5 @@
 # carousel-component
-This is a slider component made with pure JavaScript for a custom furniture website.
+This is a slider component made with pure JavaScript for a custom furniture website. It's a work in progress.
 
 <h3>Issues faced & resolution:</h3>
 
